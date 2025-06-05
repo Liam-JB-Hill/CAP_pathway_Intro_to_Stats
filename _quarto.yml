@@ -8,10 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - href: session1.qmd
+        text: Session 1
+      - href: session2.qmd
+        text: Session 2
+      - href: session3.qmd
+        text: Session 3
     tools:
-      - icon: twitter
-        href: https://bsky.app/profile/liamjbhill.bsky.social
+      - icon: link  # Use a generic link icon, as there's no specific Bluesky icon
+        href: https://bsky.app/profile/liamjbhill.bsky.social  # Replace with your Bluesky URL
       - icon: github
         href: https://github.com/Liam-JB-Hill/CAP_pathway_Intro_to_Stats
   page-footer:
