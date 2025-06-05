@@ -10,7 +10,7 @@ format:
     code-fold: true  # Option to fold code blocks
 ---
 
-This website hosts supporting materials for a single day summer school, which I run for *MSc Education Child & Adolescent Psychology (CAP) Pathway* students within MHSES, at the University of Edinburgh.
+This website hosts supporting materials for a single day summer school, which I ([Dr Liam Hill](https://edwebprofiles.ed.ac.uk/profile/liam-hill)) run for *MSc Education Child & Adolescent Psychology (CAP) Pathway* students within MHSES, at the University of Edinburgh.
 
 The content is broken up into three sessions, which are designed to give you an introduction to foundational statistical concepts and teach you some simple descriptive and inferential statistical methods.
 
