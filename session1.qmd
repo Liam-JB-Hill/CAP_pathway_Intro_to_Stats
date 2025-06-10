@@ -79,7 +79,7 @@ American Psychological Association. (2020). *Publication manual of the American 
 
 [Slides](../slides/Explore.pptx)
 
-[Updated SPSS Dataset for Part 3](../SPSS_datasets/session_1_data_Ex3.sav)
+[Updated SPSS Dataset for Part 3](docs/SPSS_datasets/session_1_data_Ex3.sav)
 
 For exercises demonstrating various things you should be looking out for
 when exploring your data please see pages 14-17 of the Walkthroughs doc, link above. 
