@@ -34,15 +34,15 @@ you to practice these skills and ask questions.
 
 [Slides](../CAP_pathway_Intro_to_Stats/slides/General_Intro.pptx)
 
-* [SPSS Dataset for Parts 1 and 2](../SPSS_datasets/session_1_data.sav)
+* [SPSS Dataset for Parts 1 and 2](../CAP_pathway_Intro_to_Stats/SPSS_datasets/session_1_data.sav)
  
-* [Walkthroughs and Exercises](../exercises/Session1_Exercises.pdf)
+* [Walkthroughs and Exercises](../CAP_pathway_Intro_to_Stats/exercises/Session1_Exercises.pdf)
 
-* [Walkthroughs and Exercises with ANSWERS](../exercises/Session1_Exercises_with_ANSWERS.pdf)
+* [Walkthroughs and Exercises with ANSWERS](../CAP_pathway_Intro_to_Stats/exercises/Session1_Exercises_with_ANSWERS.pdf)
 
 # 1. Describing your data
 
-[Slides](../slides/Describe.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/Describe.pptx)
 
 For exercises demonstrating various techniques for describing your data please see pages 1-7 of the Walkthroughs doc, link above. 
 
@@ -59,7 +59,7 @@ American Psychological Association. (2020). *Publication manual of the American 
 
 # 2. Visualising your data
 
-[Slides](../slides/Visualise.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/Visualise.pptx)
 
 For exercises demonstrating various techniques for visualising your data please see pages 8-13 of the Walkthroughs doc, link above. 
 
@@ -77,9 +77,9 @@ American Psychological Association. (2020). *Publication manual of the American 
 
 # 3. Exploring your data
 
-[Slides](../slides/Explore.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/Explore.pptx)
 
-[Updated SPSS Dataset for Part 3](docs/SPSS_datasets/session_1_data_Ex3.sav)
+[Updated SPSS Dataset for Part 3](../CAP_pathway_Intro_to_Stats/SPSS_datasets/session_1_data_Ex3.sav)
 
 For exercises demonstrating various things you should be looking out for
 when exploring your data please see pages 14-17 of the Walkthroughs doc, link above. 

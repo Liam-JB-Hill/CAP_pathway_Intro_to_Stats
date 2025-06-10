@@ -33,11 +33,11 @@ To be added
 
 # 1. Testing linear relationships between continuous variables (Correlations)
 
-[Slides](../slides/correlations.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/correlations.pptx)
 
-[SPSS Dataset for section 1](../SPSS_datasets/FILENAME_HERE)
+[SPSS Dataset for section 1](../CAP_pathway_Intro_to_Stats/SPSS_datasets/FILENAME_HERE)
 
-[Walkthroughs](../exercises/section1.docx)
+[Walkthroughs](../CAP_pathway_Intro_to_Stats/exercises/section1.docx)
 
 ::: {.callout-tip title="Further Steps"}
 to be added
@@ -45,11 +45,11 @@ to be added
 
 # 2. Testing group differences in continuous variables (T-tests)
 
-[Slides](../slides/ttest.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/ttest.pptx)
 
-[SPSS Dataset for section 2](../SPSS_datasets/FILENAME_HERE)
+[SPSS Dataset for section 2](../CAP_pathway_Intro_to_Stats/SPSS_datasets/FILENAME_HERE)
 
-[Walkthroughs](../exercises/section2.docx)
+[Walkthroughs](../CAP_pathway_Intro_to_Stats/exercises/section2.docx)
 
 ::: {.callout-tip title="Further Steps"}
 to be added
@@ -57,11 +57,11 @@ to be added
 
 # 3. Testing group differences for categorical outcomes (Chi-squared tests)
 
-[Slides](../slides/chi-square.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/chi-square.pptx)
 
-[SPSS Dataset for section 3](../SPSS_datasets/FILENAME_HERE)
+[SPSS Dataset for section 3](../CAP_pathway_Intro_to_Stats/SPSS_datasets/FILENAME_HERE)
 
-[Walkthroughs](../exercises/section3.docx)
+[Walkthroughs](../CAP_pathway_Intro_to_Stats/exercises/section3.docx)
 
 ::: {.callout-tip title="Further Steps"}
 to be added
