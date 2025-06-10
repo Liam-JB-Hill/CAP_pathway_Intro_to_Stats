@@ -1,5 +1,69 @@
 ---
-title: "Session 3"
+title: "An introduction to inferential statistical tests"
+format: 
+  html:
+    toc: true # Table of contents (sidebar) hidden
+    css: styles.css  # Optional: add custom styles
+    number-sections: false
+    theme: spacelab  # You can choose a different theme
+    background: white
+    code-fold: true  # Option to fold code blocks
+    
 ---
 
-Content under development
+**Overview**
+
+Whilst Session 1 (this morning) gave you the skills to describe your data, this 
+workshop moves on to look at how you can use your data to make inferences 
+(i.e. how to use data to test statistical hypotheses). 
+
+We will focus on training you to run and interpret the output from three basic 
+kinds of statistical tests. 
+
+* Firstly, we will look at bivariate correlation tests (useful when studying relationships between pairs of continuous variables).
+* Then we will take a look at t-tests (used to test for group differences in a continuously measured outcome). 
+* Lastly, we will look at chi-squared tests (helpful for testing relationships between variables that are both measured categorically). 
+
+::: {.callout-note title="Session Structure"}
+
+To be added
+
+*Note:* At the end of each section I've also included some 'things to do next' advice.
+:::
+
+# 1. Testing linear relationships between continuous variables (Correlations)
+
+[Slides](../slides/correlations.pptx)
+
+[SPSS Dataset for section 1](../SPSS_datasets/FILENAME_HERE)
+
+[Walkthroughs](../exercises/section1.docx)
+
+::: {.callout-tip title="Further Steps"}
+to be added
+:::
+
+# 2. Testing group differences in continuous variables (T-tests)
+
+[Slides](../slides/ttest.pptx)
+
+[SPSS Dataset for section 2](../SPSS_datasets/FILENAME_HERE)
+
+[Walkthroughs](../exercises/section2.docx)
+
+::: {.callout-tip title="Further Steps"}
+to be added
+:::
+
+# 3. Testing group differences for categorical outcomes (Chi-squared tests)
+
+[Slides](../slides/chi-square.pptx)
+
+[SPSS Dataset for section 3](../SPSS_datasets/FILENAME_HERE)
+
+[Walkthroughs](../exercises/section3.docx)
+
+::: {.callout-tip title="Further Steps"}
+to be added
+:::
+

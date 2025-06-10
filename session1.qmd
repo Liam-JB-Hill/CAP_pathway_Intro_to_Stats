@@ -1,5 +1,105 @@
 ---
-title: "Session 1"
+title: "Describing, Visualising and Exploring Data"
+format: 
+  html:
+    toc: true # Table of contents (sidebar) hidden
+    css: styles.css  # Optional: add custom styles
+    number-sections: false
+    theme: spacelab  # You can choose a different theme
+    background: white
+    code-fold: true  # Option to fold code blocks
+    
 ---
 
-Content under development
+**Overview**
+
+This session will focus on developing your understanding of how to use SPSS 
+statistical software to analyse data Descriptively. In this session we will 
+build your skills at reporting and describing your data (e.g. presenting and 
+interpreting summary statistics), visualising your data (e.g. using Graphs) and exploring it (e.g. to identify outlier observations).
+
+::: {.callout-note title="Session Structure"}
+1. To begin with I'll talk for about 10 min on some general points that are 
+important to keep in mind, throughout all today's sessions.
+
+2. We will then spend about 25 mins looking at each of the three main sections of 
+this workshop. Within each section I'll start with a brief (5-10 min) demo of 
+some key skills and highlight some key points before allowing some time for 
+you to practice these skills and ask questions.
+
+*Note:* At the end of each section I've also included some 'things to do next' advice.
+:::
+
+# General Introduction
+
+[Slides](../slides/General_Intro.pptx)
+
+* [SPSS Dataset for Parts 1 and 2](../SPSS_datasets/session_1_data.sav)
+ 
+* [Walkthroughs and Exercises](../exercises/Session1_Exercises.pdf)
+
+* [Walkthroughs and Exercises with ANSWERS](../exercises/Session1_Exercises_with_ANSWERS.pdf)
+
+# 1. Describing your data
+
+[Slides](../slides/Describe.pptx)
+
+For exercises demonstrating various techniques for describing your data please see pages 1-7 of the Walkthroughs doc, link above. 
+
+::: {.callout-tip title="Further Steps"}
+
+The SPSS output you've generated will contain ways of describing various different types of data, which you may want to report in your dissertation. It's important to work out, from these big tables, what it is important to report (that will depend on your project) and to format that reporting appropriately for your dissertation (i.e. cut-and-pasting in SPSS output tables in generally not considered *"proper formatting"*) 
+
+I've noticed SPSS has added some functions for outputting your descriptive statistics in APA formatted tables. I've never used these but you may want to look into their usefulness.Alternatively, refer to a style guide, like the one linked to below, that will give you comprehensive advise on how to report descriptive statistics in both
+text and table format: 
+
+American Psychological Association. (2020). *Publication manual of the American Psychological Association 2020: the official guide to APA style* (7th ed.). American Psychological Association. <https://doi.org/10.1037/0000165-000>
+
+:::
+
+# 2. Visualising your data
+
+[Slides](../slides/Visualise.pptx)
+
+For exercises demonstrating various techniques for visualising your data please see pages 8-13 of the Walkthroughs doc, link above. 
+
+::: {.callout-tip title="Further Steps"}
+
+As mentioned in the Walkthroughs, there a lots of other ways you could visualise your data. Plus, there's a need to format these graphs in a format suitable for your dissertation. 
+
+If you're creating graphs for inclusion in your dissertation I would **ALWAYS** view what SPSS outputs as a 'rough draft' that will need editing to reduce chart clutter and to use terminology more aligned with the names/terms you are using to describe your variables in your text. 
+
+Again, the APA manual has lots of examples within its style guide of what well-formatted graphs, of various different types, should look like. 
+
+American Psychological Association. (2020). *Publication manual of the American Psychological Association 2020: the official guide to APA style* (7th ed.). American Psychological Association. <https://doi.org/10.1037/0000165-000>
+
+:::
+
+# 3. Exploring your data
+
+[Slides](../slides/Explore.pptx)
+
+[Updated SPSS Dataset for Part 3](../SPSS_datasets/session_1_data_Ex3.sav)
+
+For exercises demonstrating various things you should be looking out for
+when exploring your data please see pages 14-17 of the Walkthroughs doc, link above. 
+
+::: {.callout-tip title="Further Steps"}
+
+If you've identified outliers that you feel you it would be wise to exclude before you start your inferential analysis (either completely or as part of 
+a *sensitivity analysis*), you can do this using the **Select Cases** function to filter them out of your dataset (See Section 3, Exercise 2, p10 of the Walkthrough doc for more info).
+
+Once you've got a final set of cases you want to analyse in your dataset, It is time to consider how to test (using inferential statistical models) your hypotheses. These are predictions, formulated before you collected your data, about the relationships you expect to see between certain variables in your dataset. This 'next step' is what we'll be focussing on in Session 2 and 3 today! 
+
+:::
+
+
+
+
+
+
+
+
+
+
+

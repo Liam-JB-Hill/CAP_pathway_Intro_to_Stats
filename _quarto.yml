@@ -1,5 +1,9 @@
 project:
   type: website
+  resources:
+        - "exercises"
+        - "slides"
+        - "SPSS_datasets"
   output-dir: docs
   
 website:
