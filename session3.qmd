@@ -26,44 +26,121 @@ kinds of statistical tests.
 
 ::: {.callout-note title="Session Structure"}
 
-To be added
+1. To begin with I'll talk for about 5-10 min on some general points about how
+you choose an appropriate inferential statistical test
+
+2. We will then spend about 30 mins looking at each of the three main sections of 
+this workshop. Within each section I'll start with a brief (~5min) outline of
+each type of test and some of its applications, then we'll allow some time for 
+you to practice running and interpreting these tests in SPSS.
+
+3. There should also be some time towards the end of this session 20-30 min for 
+any general questions or self-directed study. 
 
 *Note:* At the end of each section I've also included some 'things to do next' advice.
 :::
 
+# General Introduction
+
+[Slides](../CAP_pathway_Intro_to_Stats/slides/S3_General_Intro.pptx.pptx)
+
 # 1. Testing linear relationships between continuous variables (Correlations)
 
-[Slides](../CAP_pathway_Intro_to_Stats/slides/correlations.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/Correlations.pptx)
 
-[SPSS Dataset for section 1](../CAP_pathway_Intro_to_Stats/SPSS_datasets/FILENAME_HERE)
+[SPSS Dataset for Exercise 1](../CAP_pathway_Intro_to_Stats/SPSS_datasets/session_3_data_Ex1)
 
-[Walkthroughs](../CAP_pathway_Intro_to_Stats/exercises/section1.docx)
+[Walkthroughs and Exercises](../CAP_pathway_Intro_to_Stats/exercises/Session3_Correlation_Exercises.pdf)
+
+[Walkthroughs and Exercises with ANSWERS](../CAP_pathway_Intro_to_Stats/exercises/Session3_Correlation_Exercises_with_ANSWERS.pdf)
 
 ::: {.callout-tip title="Further Steps"}
-to be added
+
+1. As mentioned in Session 1, this morning, your SPSS output does not present the 
+values you need to report in your dissertation in an acceptable format. Again,
+cut-and-pasting lots of SPSS tables into your dissertation is generally not the 
+way to go. Instead, you want to present your results in nicely formatted tables
+or in-text descriptions (which include reporting of all the necessary values, 
+in the correct format). We got a bit of practice in the exercises here but you 
+may also want to refer to a style guide, like the one linked to below, to give 
+you more comprehensive advice on how to report correlations, either in table or 
+in text format: 
+
+American Psychological Association. (2020). *Publication manual of the American Psychological Association 2020: the official guide to APA style* (7th ed.). American Psychological Association. <https://doi.org/10.1037/0000165-000>
+
+2. Correlations also may just not cut it, depending on your project. If you 
+have a continuous dependent variable (DV) and more than one continuous 
+independent variable (IV) it is generally recommended you use Regression 
+Modelling methods, rather than multiple bivariate correlations, to test the 
+relationships between your DV and the IVs. To learn more about Regression 
+methods and how to run these types of tests using SPSS you could start with  
+**Chapter 9: The Linear Model (Regression)** in the course textbook I used to 
+teach from, when I first developed these exercises and walkthroughs, back in 2020: 
+
+Andy Field. (2017). *Discovering Statistics Using IBM SPSS Statistics* (5th ed). SAGE LTD.
+<https://discovered.ed.ac.uk/permalink/44UOE_INST/iatqhp/alma9924461179002466>^[There is a more recent 6th Edition of this textbook (released in 2024). If you access that version you may find the chapter/section reference don’t match up exactly. Although things should be fairly similar.] 
+
 :::
 
 # 2. Testing group differences in continuous variables (T-tests)
 
-[Slides](../CAP_pathway_Intro_to_Stats/slides/ttest.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/Ttest.pptx)
 
-[SPSS Dataset for section 2](../CAP_pathway_Intro_to_Stats/SPSS_datasets/FILENAME_HERE)
+[SPSS Dataset for Exercise 2](../CAP_pathway_Intro_to_Stats/SPSS_datasets/session_3_data_Ex2)
 
-[Walkthroughs](../CAP_pathway_Intro_to_Stats/exercises/section2.docx)
+[SPSS Dataset for Exercise 3](../CAP_pathway_Intro_to_Stats/SPSS_datasets/session_3_data_Ex3)
+
+[Walkthroughs and Exercises](../CAP_pathway_Intro_to_Stats/exercises/Session3_Ttests_Exercises.pdf)
+
+[Walkthroughs and Exercises with ANSWERS](../CAP_pathway_Intro_to_Stats/exercises/Session3_Ttests_Exercises_with_ANSWERS.pdf)
 
 ::: {.callout-tip title="Further Steps"}
-to be added
+
+Similar to the advice advice in the previous "Further Steps" box (for 
+correlations), I would: 
+
+1. Use the APA manual to check you are reporting your results of your t-tests in
+a correctly formatted manner.
+
+2. If you have a categorical independent variable with more than two levels and
+a continuous dependent variable then a different statistical methods, rather than
+running multiple pairwise t-tests, would be what is recommended. If you are 
+interested in doing such an analysis, which involve one (or more) categorical 
+IVs and a single continuous DV, I would look to learn more about **Generalised Linear Models (GLMs)**. These are the preferred statistical method to use when running Analyses 
+of Variance (ANOVAs), which is what you need to do in this scenario. To learn 
+more about GLMs and how to implement them in SPSS you could look at **Chapter 12: GLM 1: Comparing several independent means** in the Andy Field text-book 
+(link in previous "Further Steps" box), to help you get started with this.^[There are several 
+further chapters on this method that follow this initial chapter in the Field 
+textbook (all pre-fixed *GLM*), each describes a variation on the GLM method. I 
+would seek advice from your supervisor if you are unsure which of these chapters 
+may be most relevant to your project, given the specifics of your data]. 
+
 :::
 
 # 3. Testing group differences for categorical outcomes (Chi-squared tests)
 
-[Slides](../CAP_pathway_Intro_to_Stats/slides/chi-square.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/ChiSqTests.pptx)
 
-[SPSS Dataset for section 3](../CAP_pathway_Intro_to_Stats/SPSS_datasets/FILENAME_HERE)
+[SPSS Dataset for Exercise X](../CAP_pathway_Intro_to_Stats/SPSS_datasets/session_3_data_ExX)
 
-[Walkthroughs](../CAP_pathway_Intro_to_Stats/exercises/section3.docx)
+[Walkthroughs and Exercises](../CAP_pathway_Intro_to_Stats/exercises/Session3_ChiSqTests_Exercises.pdf)
+
+[Walkthroughs and Exercises with ANSWERS](../CAP_pathway_Intro_to_Stats/exercises/Session3_ChiSqTests_Exercises_with_ANSWERS.pdf)
+
 
 ::: {.callout-tip title="Further Steps"}
-to be added
+Again, I would give advice similar to what I've written already in the previous 
+two "Further Steps" boxes on this page. I would: 
+
+1. Use the APA manual to check you are reporting your results of your t-tests in
+a correctly formatted manner.
+
+2. If you have more a continuous dependent variable and want to test how it is 
+influenced by more than one independent variable then different statistical 
+methods will be more effective. In particular, if you are interested in testing 
+the influence of multiple different IVs on a single categorical DV I would look
+to learn more about **Logistic Regression** models. In Andy Field's text-book 
+(link in the first "Further Steps" box on this page) the relevant chapter to 
+read to help you get started with that is **Chapter 20: Categorical Outcomes: Logistic Regression**.
 :::
 

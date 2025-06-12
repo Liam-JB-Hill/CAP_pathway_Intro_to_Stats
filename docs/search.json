@@ -4,7 +4,14 @@
     "href": "session3.html",
     "title": "An introduction to inferential statistical tests",
     "section": "",
-    "text": "Overview\nWhilst Session 1 (this morning) gave you the skills to describe your data, this workshop moves on to look at how you can use your data to make inferences (i.e. how to use data to test statistical hypotheses).\nWe will focus on training you to run and interpret the output from three basic kinds of statistical tests.\n\nFirstly, we will look at bivariate correlation tests (useful when studying relationships between pairs of continuous variables).\nThen we will take a look at t-tests (used to test for group differences in a continuously measured outcome).\nLastly, we will look at chi-squared tests (helpful for testing relationships between variables that are both measured categorically). \n\n\n\n\n\n\n\nSession Structure\n\n\n\nTo be added\nNote: At the end of each section I’ve also included some ‘things to do next’ advice.\n\n\n\n1. Testing linear relationships between continuous variables (Correlations)\nSlides\nSPSS Dataset for section 1\nWalkthroughs\n\n\n\n\n\n\nFurther Steps\n\n\n\nto be added\n\n\n\n\n2. Testing group differences in continuous variables (T-tests)\nSlides\nSPSS Dataset for section 2\nWalkthroughs\n\n\n\n\n\n\nFurther Steps\n\n\n\nto be added\n\n\n\n\n3. Testing group differences for categorical outcomes (Chi-squared tests)\nSlides\nSPSS Dataset for section 3\nWalkthroughs\n\n\n\n\n\n\nFurther Steps\n\n\n\nto be added"
+    "text": "Overview\nWhilst Session 1 (this morning) gave you the skills to describe your data, this workshop moves on to look at how you can use your data to make inferences (i.e. how to use data to test statistical hypotheses).\nWe will focus on training you to run and interpret the output from three basic kinds of statistical tests."
+  },
+  {
+    "objectID": "session3.html#footnotes",
+    "href": "session3.html#footnotes",
+    "title": "An introduction to inferential statistical tests",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThere is a more recent 6th Edition of this textbook (released in 2024). If you access that version you may find the chapter/section reference don’t match up exactly. Although things should be fairly similar.↩︎\nThere are several further chapters on this method that follow this initial chapter in the Field textbook (all pre-fixed GLM), each describes a variation on the GLM method. I would seek advice from your supervisor if you are unsure which of these chapters may be most relevant to your project, given the specifics of your data↩︎"
   },
   {
     "objectID": "session2.html",

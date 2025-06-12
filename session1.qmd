@@ -32,7 +32,7 @@ you to practice these skills and ask questions.
 
 # General Introduction
 
-[Slides](../CAP_pathway_Intro_to_Stats/slides/General_Intro.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/S1_General_Intro.pptx)
 
 * [SPSS Dataset for Parts 1 and 2](../CAP_pathway_Intro_to_Stats/SPSS_datasets/session_1_data.sav)
  
