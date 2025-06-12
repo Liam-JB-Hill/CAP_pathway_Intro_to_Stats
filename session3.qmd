@@ -123,9 +123,9 @@ may be most relevant to your project, given the specifics of your data].
 
 [SPSS Dataset for Exercise X](../CAP_pathway_Intro_to_Stats/SPSS_datasets/session_3_data_ExX)
 
-[Walkthroughs and Exercises](../CAP_pathway_Intro_to_Stats/exercises/Session3_ChiSqTests_Exercises.pdf)
+[Walkthroughs and Exercises](../CAP_pathway_Intro_to_Stats/exercises/Session3_ChiSq_Exercises.pdf)
 
-[Walkthroughs and Exercises with ANSWERS](../CAP_pathway_Intro_to_Stats/exercises/Session3_ChiSqTests_Exercises_with_ANSWERS.pdf)
+[Walkthroughs and Exercises with ANSWERS](../CAP_pathway_Intro_to_Stats/exercises/Session3_ChiSq_Exercises_with_ANSWERS.pdf)
 
 
 ::: {.callout-tip title="Further Steps"}
