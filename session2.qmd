@@ -26,4 +26,4 @@ In particular, there will be a focus on helping you understanding the concepts o
 what 'p-values' (for Null Hypothesis Significance tests) and Effect Sizes 
 represent and getting opportunities to practice interpreting such values.
 
-[Slides](../CAP_pathway_Intro_to_Stats/slides/session2.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/Session2.pptx)
