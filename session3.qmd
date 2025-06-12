@@ -121,7 +121,7 @@ may be most relevant to your project, given the specifics of your data].
 
 [Slides](../CAP_pathway_Intro_to_Stats/slides/ChiSqTests.pptx)
 
-[SPSS Dataset for Exercise X](../CAP_pathway_Intro_to_Stats/SPSS_datasets/session_3_data_ExX)
+[SPSS Dataset for Exercise 4](../CAP_pathway_Intro_to_Stats/SPSS_datasets/session_3_data_Ex4.sav)
 
 [Walkthroughs and Exercises](../CAP_pathway_Intro_to_Stats/exercises/Session3_ChiSq_Exercises.pdf)
 
