@@ -84,7 +84,7 @@ Andy Field. (2017). *Discovering Statistics Using IBM SPSS Statistics* (5th ed).
 
 # 2. Testing group differences in continuous variables (T-tests)
 
-[Slides](../CAP_pathway_Intro_to_Stats/slides/Ttest.pptx)
+[Slides](../CAP_pathway_Intro_to_Stats/slides/Ttests.pptx)
 
 [SPSS Dataset for Exercise 2](../CAP_pathway_Intro_to_Stats/SPSS_datasets/session_3_data_Ex2.sav)
 
